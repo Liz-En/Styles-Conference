@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+    font-family: "Segoe UI";
+}
+
+h3{
+    color: #648880;
+    font-weight: 500;
+}
+
+h4{
+    color: #888;
+    font-weight: 400;
+}
+
+.top-container{
+    background-color: #293f50;
+    margin: 0;
+    padding: 0px;
+}
+
+a:hover{
+    color: #648880;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+#event{
+
+    margin-left: 300px;
+    border-top: 4px solid #648880;
+    border-top-width: 5px;
+    font-size: 38px;
+    font-weight: 100;
+    letter-spacing: .5px;
+    line-height: 60px;
+    text-transform: uppercase;
+    font-family: "Segoe UI";
+    text-decoration: none;
+
+}
+
+
+#event a {
+color: #fff
+
+}
+
+#date{
+    float: right;
+    margin-right: 295px;
+    margin-top: -155px;
+    color: #648880;
+    font-family: "Segoe UI";
+    font-weight: 100;
+    
+}
+
+#navigation{
+    margin-left: 816px;
+    display: flex;
+    margin-top: 50px;
+}
+
+#navigation p{
+    padding-left: 20px;
+text-decoration: none;
+margin-top: -75px;
+font-family: "Segoe UI";
+
+
+}
+
+#navigation a{
+    text-decoration: none;
+}
+
+#intro{
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+}
+
+#intro h2{
+  font-size: 36px;
+  color: #648880;
+  font-family: "Segoe UI";
+  font-weight: 400;
+}
+
+#intro p{
+  font-size: 21px;
+  line-height: 33px;
+  color: white;
+  font-family: "Segoe UI";
+  margin-bottom: 22px;
+  color: #888;
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.map1{
+    padding-left: 115px;
+}
+
+.map2{
+    padding-left: 150px;
+}
+
+.top h2, .top a{
+    color: #648880;
+}
+
+.top a{
+    text-decoration: underline;
+    text-decoration-style:solid;
+    text-decoration-thickness: 0.000000001px;
+}
+
+.bottom a{
+    text-decoration: underline;
+    text-decoration-style:solid;
+    text-decoration-thickness: 0.000000001px;
+}
+
+.top,.bottom p{
+    color: #888;
+}
+
+.bottom{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.bottom h2,.bottom a{
+    color: #648880;
+}
+footer{
+    background-color: #293f50;
+    padding: 20px;
+}
+
+footer #copyright{
+    margin-top: 20px;
+    margin-left: 300px;
+    color: #648880;
+    font-family: "Segoe UI";
+}
+
+#footer{
+    display: flex;
+    margin-left: 845px;
+}
+#footer p{
+    margin-top: -20px;
+    padding-left: 20px;
+    font-family: "Segoe UI";
+}
+
+#footer a{
+    text-decoration: none;
+}

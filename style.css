@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+}
+
+.top-container{
+    background-color: #293f50;
+    margin: 0;
+    padding: 20px;
+}
+
+a:hover{
+    color: #648880;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+#event{
+
+    margin-left: 300px;
+    border-top: 4px solid #648880;
+    border-top-width: 5px;
+    font-size: 38px;
+    font-weight: 100;
+    letter-spacing: .5px;
+    line-height: 60px;
+    text-transform: uppercase;
+    font-family: "Segoe UI";
+    text-decoration: none;
+
+}
+
+
+#event a {
+color: #fff
+
+}
+
+#date{
+    float: right;
+    margin-right: 310px;
+    margin-top: -180px;
+    color: #648880;
+    font-family: "Segoe UI";
+    
+}
+
+#navigation{
+    margin-left: 816px;
+    display: flex;
+    margin-top: 10px;
+}
+
+#navigation p{
+    padding-left: 20px;
+text-decoration: none;
+margin-top: -100px;
+font-family: "Segoe UI"
+
+
+}
+
+#navigation a{
+    text-decoration: none;
+}
+
+#intro{
+    text-align: center;
+    padding: 50px;
+}
+
+#intro h2{
+  font-size: 36px;
+  color: #648880;
+  font-family: "Segoe UI"
+}
+
+#intro p{
+  font-size: 24px;
+  font-weight: 100;
+  color: white;
+  font-family: "Segoe UI";
+}
+
+#intro button{
+    border-width: 0.1rem;
+    border-color: white;
+    padding: 25px 45px;
+    border-radius: 5pt;
+    background-color: #293f50;
+    color: white;
+    text-transform: uppercase;
+}
+
+.button:hover{
+    background-color: #fff;
+}
+
+#components{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-left:-10px;
+}
+
+#components h3{
+color: #648880;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#components p,h5{
+        color: lightgray;
+        font-family: "Segoe UI"
+}
+
+#components p,img,h3,h5{
+    padding-left: 40px;
+}
+
+img{
+    height: 200px;
+    border-radius: 5pt 5pt;
+
+}
+
+footer{
+    background-color: #293f50;
+    padding: 20px;
+}
+
+footer #copyright{
+    margin-top: 20px;
+    margin-left: 300px;
+    color: #648880;
+    font-family: "Segoe UI";
+}
+
+#footer{
+    display: flex;
+    margin-left: 845px;
+}
+#footer p{
+    margin-top: -20px;
+    padding-left: 20px;
+    font-family: "Segoe UI";
+}
+
+#footer a{
+    text-decoration: none;
+}
